@@ -1,0 +1,53 @@
+{
+  "hash": "67a3155c",
+  "browserHash": "5f63ae33",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "53c35256",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "ba4d5f81",
+      "needsInterop": true
+    },
+    "framer-motion": {
+      "src": "../../node_modules/framer-motion/dist/es/index.mjs",
+      "file": "framer-motion.js",
+      "fileHash": "44aaff99",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "6af0a272",
+      "needsInterop": false
+    },
+    "react-tsparticles": {
+      "src": "../../node_modules/react-tsparticles/esm/index.js",
+      "file": "react-tsparticles.js",
+      "fileHash": "26d686db",
+      "needsInterop": false
+    },
+    "tsparticles": {
+      "src": "../../node_modules/tsparticles/esm/index.js",
+      "file": "tsparticles.js",
+      "fileHash": "279e5a95",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-UMBEC6V5": {
+      "file": "chunk-UMBEC6V5.js"
+    },
+    "chunk-NDFAFIVL": {
+      "file": "chunk-NDFAFIVL.js"
+    },
+    "chunk-ROME4SDB": {
+      "file": "chunk-ROME4SDB.js"
+    }
+  }
+}
